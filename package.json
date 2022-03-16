@@ -1,0 +1,22 @@
+{
+  "name": "js_code_metrics_api",
+  "version": "1.0.0",
+  "description": "API for computing code metrics for JavaScript codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdahwireng/js_code_metrics_api.git"
+  },
+  "author": "M D Ahwireng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdahwireng/js_code_metrics_api/issues"
+  },
+  "homepage": "https://github.com/mdahwireng/js_code_metrics_api#readme",
+  "dependencies": {
+    "escomplex": "^2.0.0-alpha"
+  }
+}
